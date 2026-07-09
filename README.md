@@ -7,11 +7,6 @@
 
 *"Building software that solves real-world problems, one commit at a time."*
 
-<img src="https://komarev.com/ghpvc/?username=mssrishtisharmaa&label=Profile+Views&style=for-the-badge&color=6A5ACD"/>
-
-<img src="https://img.shields.io/github/followers/mssrishtisharmaa?style=for-the-badge&color=blue"/>
-
-<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ms-srishti-sharma/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/its_srishtis)
@@ -126,5 +121,7 @@
 *"Code. Learn. Build. Repeat."*
 
 If you enjoy my work, feel free to ⭐ my repositories.
+<br>
 
+<img src="https://komarev.com/ghpvc/?username=mssrishtisharmaa&label=Profile+Views&style=for-the-badge&color=6A5ACD"/>
 </div>

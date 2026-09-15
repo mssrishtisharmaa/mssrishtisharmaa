@@ -104,7 +104,7 @@
 | 🟣 **[E-Validate](https://github.com/mssrishtisharmaa/E-validate)** | AI-powered Legal Metrology Compliance Platform | Flask • Python • MySQL |
 | 🔵 **[Vision-Based Morse Code Decoder](https://github.com/mssrishtisharmaa/Vision-Based-Morse-Code-Decoder)** | Eye Blink Detection using Computer Vision | OpenCV • MediaPipe • Python |
 | 🟢 **[Quiz Buddy](https://github.com/mssrishtisharmaa/QUIZ_BUDDY)** | Online Quiz Management System | PHP • MySQL • HTML • CSS |
-| 🟠 **[LeetCode Journey](https://github.com/mssrishtisharmaa/leetcode-solutions)** | Daily DSA solutions with explanations | C++ |
+
 ---
 
 # 💭 Favorite Quote

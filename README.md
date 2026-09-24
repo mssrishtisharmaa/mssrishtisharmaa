@@ -24,16 +24,19 @@ const srishti = {
     background: "Diploma in Computer Engineering @ DSEU '25",
 
     interests: [
-        "Software Engineering",
+        "Scalable Software Engineering",
         "Artificial Intelligence & Machine Learning",
-        "Computer Vision",
-        "Full Stack Development"
+        "Computer Vision & Image Processing",
+        "Full Stack Web Development",
+        "DevOps & CI/CD Automation",
+        "Cloud Infrastructure & Deployment Pipelines"
     ],
 
     builds: [
-        "Full Stack Applications",
-        "AI/ML Projects",
-        "Computer Vision Projects"
+        "Production-ready Full Stack Applications",
+        "AI/ML Models for real-world tasks",
+        "Computer Vision pipelines",
+        "IoT systems integrating hardware + cloud"
     ],
 
     goal: "Build useful software and keep getting better at engineering"
@@ -70,18 +73,16 @@ const srishti = {
 </p>
 
 ---
-##  Featured Projects
+##  Highlighted Builds
 
-| Project                                                                                                    | Description                                                                 | Tech                              |
-| ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------- |
-| **[Prepify](https://github.com/mssrishtisharmaa/Prepify)**                                                 | AI-powered Student Prep & Productivity Platform                             | React • Node.js • Express.js • MongoDB • AI APIs |
-| **[MorseVision](https://github.com/mssrishtisharmaa/Vision-Based-Morse-Code-Decoder)**                     | Eye Blink Detection using Computer Vision                                   | Python • OpenCV • MediaPipe • NumPy • Tkinter   |
-| **[ESP32 Smart Archery Game](https://github.com/mssrishtisharmaa/esp32-smart-archery-game)**                | Real-time IoT archery scoring system with ESP32, IR sensors & Firebase      | ESP32 • IR Sensors • Firebase • Web Dashboard   |
-| **[E-Validate](https://github.com/mssrishtisharmaa/E-validate)**                                           | Legal Metrology Compliance Platform                                         | Flask • Python • MySQL • JavaScript |
-| **[Quiz Buddy](https://github.com/mssrishtisharmaa/QUIZ_BUDDY)**                                           | Online Quiz Management System                                               | PHP • MySQL • HTML • CSS          |
-| **[CodeQuest](https://github.com/mssrishtisharmaa/CodeQuest)**                                                                                           | Collection of small projects & experiments built while learning new tools   | Mixed Tech • Experimental Builds  |
-
-
+| Project | Technical Description | Tech |
+| --- | --- | --- |
+| **[Prepify](https://github.com/mssrishtisharmaa/Prepify)** | AI‑driven prep platform with task scheduling, dashboards, and MongoDB persistence. | React • Node.js • Express.js • MongoDB • AI APIs |
+| **[MorseVision](https://github.com/mssrishtisharmaa/Vision-Based-Morse-Code-Decoder)** | Real‑time blink‑to‑Morse translator using facial landmark detection. | Python • OpenCV • MediaPipe • NumPy • Tkinter |
+| **[ESP32 Smart Archery Game](https://github.com/mssrishtisharmaa/esp32-smart-archery-game)** | Real-time IoT archery scoring system with ESP32, IR sensors, Firebase and live dashboard. | ESP32 • IR Sensors • Firebase • Web Dashboard |
+| **[E‑Validate](https://github.com/mssrishtisharmaa/E-validate)** | Flask‑based compliance tool automating Legal Metrology validation workflows. | Flask • Python • MySQL • JavaScript |
+| **[Quiz Buddy](https://github.com/mssrishtisharmaa/QUIZ_BUDDY)** | Web quiz system with CRUD, timed tests, and scoring logic. | PHP • MySQL • HTML • CSS |
+| **[CodeQuest](https://github.com/mssrishtisharmaa/CodeQuest)** |Collection of small projects & experiments built while learning new tools  | Mixed Tech • Experimental Builds |
 ---
 
 ## Contribution
@@ -99,7 +100,7 @@ const srishti = {
 
 ## Working Principle
 
-> *"Rome was not built in a day — they were laying bricks every hour."*  
+> *"Rome was not built in a day - they were laying bricks every hour."*  
 > *"Think in systems, act in iterations."*
 
 ---

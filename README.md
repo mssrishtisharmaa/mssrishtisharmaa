@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ms-srishti-sharma/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/its_srishtis)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages)](YOUR_PORTFOLIO_LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages)](https://portfolio-zeta-cyan-gs7utsdo59.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:ms.srishti.sharma@outlook.com)
 
 </div>
@@ -86,7 +86,7 @@ const srishti = {
 
 ## Contribution Snake
 <p align="center">
-<img src="https://github.com/mssrishtisharmaa/mssrishtisharmaa/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/mssrishtisharmaa/mssrishtisharmaa/blob/output/snake.svg" alt="Snake animation"/>
 </p>
 
 

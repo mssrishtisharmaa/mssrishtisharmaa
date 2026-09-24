@@ -16,29 +16,30 @@
 </div>
 
 ---
+## About Me
 
-# 👩‍💻 About Me
+```javascript
+const srishti = {
+    education: "B.Tech CSE @ IGDTUW '28",
+    background: "Diploma in Computer Engineering @ DSEU '25",
 
-🎓 B.Tech Computer Science Engineering @ **IGDTUW**
+    interests: [
+        "Software Engineering",
+        "Artificial Intelligence & Machine Learning",
+        "Computer Vision",
+        "Full Stack Development"
+    ],
 
-💡 Passionate about building scalable software and solving real-world problems through technology.
+    builds: [
+        "Full Stack Applications",
+        "AI/ML Projects",
+        "Computer Vision Projects"
+    ],
 
+    goal: "Build useful software and keep getting better at engineering"
+};
 
-🌱 Currently learning
-
-- Data Structures & Algorithms
-- Full Stack Development
-- Backend Development
-- AI & Computer Vision
-
-💡 Interests
-
-- Software Engineering
-- AI & Machine Learning
-- Computer Vision
-- Open Source
-
-
+```
 ---
 
 # 🛠 Tech Stack
@@ -48,6 +49,7 @@
 <p >
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js,php,html,css"/>
 </p>
+
 
 ### Frameworks
 
@@ -68,55 +70,37 @@
 </p>
 
 ---
+##  Featured Projects
 
+| Project                                                                                                    | Description                                                                 | Tech                              |
+| ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------- |
+| **[Prepify](https://github.com/mssrishtisharmaa/Prepify)**                                                 | AI-powered Student Prep & Productivity Platform                             | React • Node.js • Express.js • MongoDB • AI APIs |
+| **[MorseVision](https://github.com/mssrishtisharmaa/Vision-Based-Morse-Code-Decoder)**                     | Eye Blink Detection using Computer Vision                                   | Python • OpenCV • MediaPipe • NumPy • Tkinter   |
+| **[ESP32 Smart Archery Game](https://github.com/mssrishtisharmaa/esp32-smart-archery-game)**                | Real-time IoT archery scoring system with ESP32, IR sensors & Firebase      | ESP32 • IR Sensors • Firebase • Web Dashboard   |
+| **[E-Validate](https://github.com/mssrishtisharmaa/E-validate)**                                           | Legal Metrology Compliance Platform                                         | Flask • Python • MySQL • JavaScript |
+| **[Quiz Buddy](https://github.com/mssrishtisharmaa/QUIZ_BUDDY)**                                           | Online Quiz Management System                                               | PHP • MySQL • HTML • CSS          |
+| **[CodeQuest](https://github.com/mssrishtisharmaa/CodeQuest)**                                                                                           | Collection of small projects & experiments built while learning new tools   | Mixed Tech • Experimental Builds  |
 
 
 ---
 
-# 📈 Contribution Graph
-
+## Contribution Snake
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mssrishtisharmaa&theme=tokyo-night"/>
-
-</p>
-
----
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mssrishtisharmaa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mssrishtisharmaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=mssrishtisharmaa&theme=tokyonight&hide_border=true" />
+<img src="https://github.com/mssrishtisharmaa/mssrishtisharmaa/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 
-
----
-# 🚀 Featured Projects
-
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🟣 **[E-Validate](https://github.com/mssrishtisharmaa/E-validate)** | AI-powered Legal Metrology Compliance Platform | Flask • Python • MySQL |
-| 🔵 **[Vision-Based Morse Code Decoder](https://github.com/mssrishtisharmaa/Vision-Based-Morse-Code-Decoder)** | Eye Blink Detection using Computer Vision | OpenCV • MediaPipe • Python |
-| 🟢 **[Quiz Buddy](https://github.com/mssrishtisharmaa/QUIZ_BUDDY)** | Online Quiz Management System | PHP • MySQL • HTML • CSS |
-
----
-
-# 💭 Favorite Quote
+#  Favorite Quote
 
 > *"Consistency compounds. Every commit is progress."*
+
 
 ---
 
 
 <div align="center">
 
-### ⭐ Thanks for stopping by!
+###  Thanks for stopping by!
 
 *"Code. Learn. Build. Repeat."*
 

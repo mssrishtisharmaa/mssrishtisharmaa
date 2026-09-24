@@ -1,9 +1,9 @@
 
 <div align="center">
 
-# Hi there, I'm Srishti Sharma 👋
+# Hi there, I'm Srishti Sharma 
 
-### 💻 Software Engineer in Progress • Full Stack Developer • AI/ML Enthusiast
+### Software Engineer in Progress • Full Stack Developer • AI/ML Enthusiast
 
 *"Building software that solves real-world problems, one commit at a time."*
 
@@ -42,7 +42,7 @@ const srishti = {
 ```
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 ### Languages
 
@@ -84,28 +84,34 @@ const srishti = {
 
 ---
 
-## Contribution Snake
+## Contribution
+
 <p align="center">
-<img src="https://github.com/mssrishtisharmaa/mssrishtisharmaa/blob/output/snake.svg" alt="Snake animation"/>
+ 
+<img src="https://github.com/mssrishtisharmaa/mssrishtisharmaa/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation"/>
+
+
+<img src="https://github.com/mssrishtisharmaa/mssrishtisharmaa/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation"/>
+
 </p>
 
 
-#  Favorite Quote
 
-> *"Consistency compounds. Every commit is progress."*
+## Working Principle
 
+> *"Rome was not built in a day — they were laying bricks every hour."*  
+> *"Think in systems, act in iterations."*
 
 ---
-
 
 <div align="center">
 
 ###  Thanks for stopping by!
 
-*"Code. Learn. Build. Repeat."*
+*"Code. Learn. Build. Repeat."*  
+If you enjoy my work, feel free to ⭐ my repositories.  
 
-If you enjoy my work, feel free to ⭐ my repositories.
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=mssrishtisharmaa&label=Profile+Views&style=for-the-badge&color=6A5ACD"/>
-</div>
+
